@@ -1,0 +1,7 @@
+../Core/Src/ADC.c:13:6:Joystick_Init	1
+../Core/Src/ADC.c:21:6:SENSOR_Init	1
+../Core/Src/ADC.c:29:10:Read_ADC_Channel	4
+../Core/Src/ADC.c:60:6:Joystick_Read	1
+../Core/Src/ADC.c:66:6:SENSOR_Read	1
+../Core/Src/ADC.c:72:6:ADC_System_Init	1
+../Core/Src/ADC.c:88:6:ADC_System_Update	1
